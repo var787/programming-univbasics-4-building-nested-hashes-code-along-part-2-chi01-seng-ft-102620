@@ -50,8 +50,8 @@ def add_characters
       }
    }
    epic_tragedy[:additional_characters]=[]
-   epic_tragedy[:additional_characters][0]="Prince Escalus"
-   epic_tragedy[:additional_characters][1]="Apothecary"
+   epic_tragedy[:additional_characters][0]={name:"Prince Escalus"}
+   epic_tragedy[:additional_characters][1]={name:"Apothecary"}
 
 
 
